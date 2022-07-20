@@ -192,9 +192,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@your_twitter](https://twitter.com/mostafabazyar) - me@devmostafa.cloud
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/mostafabazyar)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -232,7 +232,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/mostafabazyar/OnlineStatusCheck/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mostafa-bazyar
-[product-screenshot]: screencapture.png
+[product-screenshot]: /screencapture.png
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
 [Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
